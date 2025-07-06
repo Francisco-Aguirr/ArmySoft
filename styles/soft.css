@@ -216,7 +216,8 @@
   }
   
   .portfolio-img {
-    height: 250px;
+    height: auto;
+    width: 100%;
     background-color: #ddd;
     display: flex;
     align-items: center;
